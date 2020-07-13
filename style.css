@@ -11,8 +11,8 @@ body {
 }
 
 #items-wrapper {
-  width: 100vw
   /* width: 50vw */
+  width: 100vw
 }
 
 #items {
