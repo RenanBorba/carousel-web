@@ -18,7 +18,7 @@
 
 <br>
 
-Aplicação Front-end Mobile desenvolvida em React Native para layout de Modal Dinâmico no estilo Action bottom sheet, para aplicativos diversos e adaptação de projetos anteriores, e nesse caso usa dados estáticos para melhor visualização da animação do modal.
+Aplicação Front-end Web desenvolvida com o uso puro de CSS e JS para layout de Carousel, para aplicativos diversos e adaptação de projetos anteriores.
 
 <br><br>
 
