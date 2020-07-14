@@ -18,7 +18,7 @@
 
 <br>
 
-Aplicação Front-end Web desenvolvida com o uso puro de CSS e JS para layout de Carousel, para sites diversos e adaptação de projetos anteriores.
+Aplicação Front-end Web desenvolvida com o uso puro de CSS e JS para layout de Carousel, voltada para sites diversos e adaptação de projetos anteriores.
 
 <br><br>
 
