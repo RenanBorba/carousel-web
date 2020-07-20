@@ -67,7 +67,7 @@ Aplicação Front-end Web desenvolvida com o uso puro de CSS e JS para layout de
 
 <br><br>
 
-![01-1](https://user-images.githubusercontent.com/48495838/87971209-569b9580-ca9b-11ea-9e04-60ac92d51c71.gif)
+![1](https://user-images.githubusercontent.com/48495838/87972323-0fae9f80-ca9d-11ea-8396-0f6ecab99f3e.gif)
 
 <br><br>
 
