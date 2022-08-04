@@ -57,7 +57,7 @@ Aplicação Front-end Web desenvolvida com o uso puro de CSS e JS para layout de
 </ul>
 <br><br><br>
 
-## :mega: ⬇ Abaixo a principal interface:
+## :mega: ⬇ Abaixo, a principal interface:
 
 <br><br><br>
 
